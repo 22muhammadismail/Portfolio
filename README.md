@@ -61,6 +61,6 @@ You can download my CV as a PDF from my Google Drive.
  ### TestRail 
 -  Test cases for testing a season's rank from 2 to 10 are on TestRail. [Check the screenshot from TestRail here](https://drive.google.com/file/d/1-D5cDJX4nlO7JEpXtwluy3i6KBMrsv5M/view?usp=sharing)
 
-## Jira
+### Jira
 
 -  A bug that I have reported on Jira which I found in the Marvel Snap game. [Check the screenshot from Jira here](https://drive.google.com/file/d/1aGHmWUK2NOdM1zYwHvrxILIiGIIhaJfF/view?usp=sharing)
