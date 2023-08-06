@@ -59,5 +59,5 @@ You can download my CV as a PDF from my Google Drive.
  ## Examples of my work
 
  ### TestRail 
--  Test cases for testing a season's rank from 2 to 10 are on TestRail. [Check the screenshot from TestRail here] (https://drive.google.com/file/d/1-D5cDJX4nlO7JEpXtwluy3i6KBMrsv5M/view?usp=sharing)
+-  Test cases for testing a season's rank from 2 to 10 are on TestRail. [Check the screenshot from TestRail here](https://drive.google.com/file/d/1-D5cDJX4nlO7JEpXtwluy3i6KBMrsv5M/view?usp=sharing)
 
