@@ -38,8 +38,13 @@ You can download my CV as a PDF from my Google Drive.
 
 ### selenium
 
-- 
+- I have knowledge and experience regarding automation testing in which I have used the Selenium platform.
+- I have enough knowledge regarding Selenium Web Driver, RC, and Grid.
 
+### JMeter
+
+- I have a firm grip on the Apache JMeter tool for load and stress testing of different software.
+- I am capable of successfully performing **Load** and **Stress** testing on different software and websites, and also generate different kinds of graphs and reports for the reporting of results.
 
 
 
