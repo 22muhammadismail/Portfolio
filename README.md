@@ -1,7 +1,7 @@
 # Portfolio
-- About me
+Markup: - About me
 - CV
 - Skills
 - Tools 
 - Examples of my work
--        Test cases and work in TestRail
+- Test cases and work in TestRail
