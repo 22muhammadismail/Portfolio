@@ -45,5 +45,19 @@ You can download my CV as a PDF from my Google Drive.
 - I have a firm grip on the Apache JMeter tool for load and stress testing of different software.
 - I am capable of successfully performing **Load** and **Stress** testing on different software and websites, and also generate different kinds of graphs and reports for the reporting of results.
 
+### Tools
 
+- The tools on which I have a firm grip and can use fluently are listed below:
+  - TestRail
+  - Jira
+  - Confluence
+  - Git
+  - Clickup
+  - Slack
+  - Pycharm
+
+ ## Examples of my work
+
+ ### TestRail 
+-  Test cases for testing a season's rank from 2 to 10 are on TestRail. [Check the screenshot from TestRail here] (https://drive.google.com/file/d/1-D5cDJX4nlO7JEpXtwluy3i6KBMrsv5M/view?usp=sharing)
 
