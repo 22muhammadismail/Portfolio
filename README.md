@@ -20,7 +20,7 @@ You can download my CV as a PDF from my Google Drive.
 ### Manual testing
 
 - I am capable of performing manual Integration, System, Exploratory, and Smoke testing.
-- I gained hands-on experience of performing these testing while working in Second Dinner. For example, While working on the Marvel Snap team I made test cases of Cards vs. cards and cards vs. location to better test the integration of one card with all and vice versa.
+- I gained hands-on experience performing these testing while working in Second Dinner. For example, While working on the Marvel Snap team I made test cases of Cards vs. cards and cards vs. location to better test the integration of one card with all and vice versa.
 
 ### Testcasing
 
