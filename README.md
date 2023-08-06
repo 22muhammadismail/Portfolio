@@ -1,5 +1,4 @@
-W# Portfolio
-Markup: - About me
+# Portfolio
 - CV
 - Skills
 - Tools 
