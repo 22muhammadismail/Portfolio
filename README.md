@@ -12,7 +12,7 @@ I got my bachelor's degree in Software Engineering from the Capital University o
 
 ## CV
 
-You can download my CV as a PDF from my Google Drive.
+You can download my CV [as a PDF from my Google Drive.](https://drive.google.com/file/d/13fNZQezNjByL03FYs7B9bC38qJLlqEhu/view?usp=sharing)
 
 ## Skills 
 
