@@ -1,5 +1,5 @@
 # Portfolio
-- CV
+- (CV) [https://drive.google.com/file/d/13fNZQezNjByL03FYs7B9bC38qJLlqEhu/view?usp=sharing]  
 - Skills
 - Tools 
 - Examples of my work
